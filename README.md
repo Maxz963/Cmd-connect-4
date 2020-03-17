@@ -2,7 +2,7 @@
 A version of connect 4 but without graphics and in the command prompt of windows 7
 and upwards
 
-|-------------|
+
 |INSTRUCTIONS!|
  -------------
 to play the game you run the program inside the command prompt 
